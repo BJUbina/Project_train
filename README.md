@@ -1,0 +1,2 @@
+# CSE4200_project_train
+we intend to do an animation of an object (Train) Rides along a track from the left side of the screen to the right side of the screen and then vanishes and reappears on the left side of the screen again in a loop. The Train animation will include moving clouds and also a moving bird will transition from the right side of the screen to the left side of the screen. The scene will also transition from day to night as the train is moving from the left side of the screen to the right.
